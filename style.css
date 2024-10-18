@@ -964,7 +964,7 @@ img{
         padding:calc(var(--index)*.6);
     }
     .fontsca{
-        width: calc(var(--index)*16);
+        width: calc(var(--index)*15);
         height: calc(var(--index)*17);
         
     }
